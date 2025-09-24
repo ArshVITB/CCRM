@@ -84,6 +84,20 @@ The application provides a menu-driven interface. Follow the prompts to:
 5. Import/export data
 6. Create backups
 
+## Sceenshots
+
+**Add Students**
+screenshots/add.jpg
+
+**Update**
+screenshots/update.jpg
+
+**Display**
+screenshots/list.jpg
+
+**Student Transcripts**
+screenshots/transcripts.jpg
+
 ## Enabling Assertions
 
 To enable assertions during runtime, use the `-ea` flag:
