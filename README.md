@@ -87,16 +87,16 @@ The application provides a menu-driven interface. Follow the prompts to:
 ## Sceenshots
 
 **Add Students**
-screenshots/add.jpg
+<img src ="screenshots/add.jpg">
 
 **Update**
-screenshots/update.jpg
+<img src ="screenshots/update.jpg">
 
 **Display**
-screenshots/list.jpg
+<img src ="screenshots/list.jpg">
 
 **Student Transcripts**
-screenshots/transcripts.jpg
+<img src ="screenshots/transcripts.jpg">
 
 ## Enabling Assertions
 
